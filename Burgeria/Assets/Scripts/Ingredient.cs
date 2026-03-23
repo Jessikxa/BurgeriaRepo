@@ -8,7 +8,6 @@ public class Ingredient : MonoBehaviour
   
     void Start()
     {
-        ingredientName = gameObject.name;
     }
 
     
